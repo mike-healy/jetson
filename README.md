@@ -1,4 +1,5 @@
-# jetson
+# Jetson
+A website about a dog.
 
 ## Build Setup
 
